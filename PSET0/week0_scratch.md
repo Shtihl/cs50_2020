@@ -18,4 +18,4 @@ We need a way to represent inputs, such that we can store and work with informat
 
 ## Binary
 
-[input_output]: ../images/input_output.png "Input Output"
+[input_output]: ../Images/input_output.png "Input Output"
