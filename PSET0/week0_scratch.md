@@ -350,7 +350,7 @@ We look at some examples and discuss how we might implement components of them w
 [pet0]: ../Images/Week0/pet0.png "Pet0"
 [pet1]: ../Images/Week0/pet1.png "Pet1"
 [ouch]: ../Images/Week0/ouch.png "Ouch"
-[bounce]: ../Images/Week0/bounce "Bounce"
+[bounce]: ../Images/Week0/bounce.png "Bounce"
 [bark]: ../Images/Week0/bark.png "Bark"
 [bark1]: ../Images/Week0/bark1.png "Bark1"
 [marco]: ../Images/Week0/marco.png "Marco"
